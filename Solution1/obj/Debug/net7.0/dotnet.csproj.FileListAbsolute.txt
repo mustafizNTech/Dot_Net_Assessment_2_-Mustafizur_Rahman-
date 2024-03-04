@@ -1,0 +1,14 @@
+/home/knoldus/Desktop/dotnet/bin/Debug/net7.0/dotnet
+/home/knoldus/Desktop/dotnet/bin/Debug/net7.0/dotnet.deps.json
+/home/knoldus/Desktop/dotnet/bin/Debug/net7.0/dotnet.runtimeconfig.json
+/home/knoldus/Desktop/dotnet/bin/Debug/net7.0/dotnet.dll
+/home/knoldus/Desktop/dotnet/bin/Debug/net7.0/dotnet.pdb
+/home/knoldus/Desktop/dotnet/obj/Debug/net7.0/dotnet.GeneratedMSBuildEditorConfig.editorconfig
+/home/knoldus/Desktop/dotnet/obj/Debug/net7.0/dotnet.AssemblyInfoInputs.cache
+/home/knoldus/Desktop/dotnet/obj/Debug/net7.0/dotnet.AssemblyInfo.cs
+/home/knoldus/Desktop/dotnet/obj/Debug/net7.0/dotnet.csproj.CoreCompileInputs.cache
+/home/knoldus/Desktop/dotnet/obj/Debug/net7.0/dotnet.dll
+/home/knoldus/Desktop/dotnet/obj/Debug/net7.0/refint/dotnet.dll
+/home/knoldus/Desktop/dotnet/obj/Debug/net7.0/dotnet.pdb
+/home/knoldus/Desktop/dotnet/obj/Debug/net7.0/dotnet.genruntimeconfig.cache
+/home/knoldus/Desktop/dotnet/obj/Debug/net7.0/ref/dotnet.dll
