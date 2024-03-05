@@ -1,0 +1,14 @@
+/home/knoldus/Desktop/dotnet/Dot_Net_Assessment_2_-Mustafizur_Rahman-/Solution2/obj/Debug/net7.0/Solution2.GeneratedMSBuildEditorConfig.editorconfig
+/home/knoldus/Desktop/dotnet/Dot_Net_Assessment_2_-Mustafizur_Rahman-/Solution2/obj/Debug/net7.0/Solution2.AssemblyInfoInputs.cache
+/home/knoldus/Desktop/dotnet/Dot_Net_Assessment_2_-Mustafizur_Rahman-/Solution2/obj/Debug/net7.0/Solution2.AssemblyInfo.cs
+/home/knoldus/Desktop/dotnet/Dot_Net_Assessment_2_-Mustafizur_Rahman-/Solution2/obj/Debug/net7.0/Solution2.csproj.CoreCompileInputs.cache
+/home/knoldus/Desktop/dotnet/Dot_Net_Assessment_2_-Mustafizur_Rahman-/Solution2/bin/Debug/net7.0/Solution2
+/home/knoldus/Desktop/dotnet/Dot_Net_Assessment_2_-Mustafizur_Rahman-/Solution2/bin/Debug/net7.0/Solution2.deps.json
+/home/knoldus/Desktop/dotnet/Dot_Net_Assessment_2_-Mustafizur_Rahman-/Solution2/bin/Debug/net7.0/Solution2.runtimeconfig.json
+/home/knoldus/Desktop/dotnet/Dot_Net_Assessment_2_-Mustafizur_Rahman-/Solution2/bin/Debug/net7.0/Solution2.dll
+/home/knoldus/Desktop/dotnet/Dot_Net_Assessment_2_-Mustafizur_Rahman-/Solution2/bin/Debug/net7.0/Solution2.pdb
+/home/knoldus/Desktop/dotnet/Dot_Net_Assessment_2_-Mustafizur_Rahman-/Solution2/obj/Debug/net7.0/Solution2.dll
+/home/knoldus/Desktop/dotnet/Dot_Net_Assessment_2_-Mustafizur_Rahman-/Solution2/obj/Debug/net7.0/refint/Solution2.dll
+/home/knoldus/Desktop/dotnet/Dot_Net_Assessment_2_-Mustafizur_Rahman-/Solution2/obj/Debug/net7.0/Solution2.pdb
+/home/knoldus/Desktop/dotnet/Dot_Net_Assessment_2_-Mustafizur_Rahman-/Solution2/obj/Debug/net7.0/Solution2.genruntimeconfig.cache
+/home/knoldus/Desktop/dotnet/Dot_Net_Assessment_2_-Mustafizur_Rahman-/Solution2/obj/Debug/net7.0/ref/Solution2.dll
