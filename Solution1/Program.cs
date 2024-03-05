@@ -69,5 +69,12 @@ class Question1 {
 
     string ans4 = toPascalCase("iasjcb cjsd");
     Console.WriteLine(ans4);
+
+    Console.WriteLine("=============================");
+
+    Console.WriteLine("Enter a string to convert to pascal case.");
+
+    string input = Console.ReadLine();
+    Console.WriteLine(toPascalCase(input));
   }
 }

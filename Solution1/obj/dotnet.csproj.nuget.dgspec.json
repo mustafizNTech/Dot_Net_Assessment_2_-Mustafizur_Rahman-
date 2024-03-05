@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/knoldus/Desktop/dotnet/dotnet.csproj": {}
+    "/home/knoldus/Desktop/dotnet/Dot_Net_Assessment_2_-Mustafizur_Rahman-/Solution1/dotnet.csproj": {}
   },
   "projects": {
-    "/home/knoldus/Desktop/dotnet/dotnet.csproj": {
+    "/home/knoldus/Desktop/dotnet/Dot_Net_Assessment_2_-Mustafizur_Rahman-/Solution1/dotnet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/knoldus/Desktop/dotnet/dotnet.csproj",
+        "projectUniqueName": "/home/knoldus/Desktop/dotnet/Dot_Net_Assessment_2_-Mustafizur_Rahman-/Solution1/dotnet.csproj",
         "projectName": "dotnet",
-        "projectPath": "/home/knoldus/Desktop/dotnet/dotnet.csproj",
+        "projectPath": "/home/knoldus/Desktop/dotnet/Dot_Net_Assessment_2_-Mustafizur_Rahman-/Solution1/dotnet.csproj",
         "packagesPath": "/home/knoldus/.nuget/packages/",
-        "outputPath": "/home/knoldus/Desktop/dotnet/obj/",
+        "outputPath": "/home/knoldus/Desktop/dotnet/Dot_Net_Assessment_2_-Mustafizur_Rahman-/Solution1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/knoldus/.nuget/NuGet/NuGet.Config"
