@@ -1,0 +1,14 @@
+/home/knoldus/Desktop/dotnet/Dot_Net_Assessment_2_-Mustafizur_Rahman-/Solution4/bin/Debug/net7.0/Solution4
+/home/knoldus/Desktop/dotnet/Dot_Net_Assessment_2_-Mustafizur_Rahman-/Solution4/bin/Debug/net7.0/Solution4.deps.json
+/home/knoldus/Desktop/dotnet/Dot_Net_Assessment_2_-Mustafizur_Rahman-/Solution4/bin/Debug/net7.0/Solution4.runtimeconfig.json
+/home/knoldus/Desktop/dotnet/Dot_Net_Assessment_2_-Mustafizur_Rahman-/Solution4/bin/Debug/net7.0/Solution4.dll
+/home/knoldus/Desktop/dotnet/Dot_Net_Assessment_2_-Mustafizur_Rahman-/Solution4/bin/Debug/net7.0/Solution4.pdb
+/home/knoldus/Desktop/dotnet/Dot_Net_Assessment_2_-Mustafizur_Rahman-/Solution4/obj/Debug/net7.0/Solution4.GeneratedMSBuildEditorConfig.editorconfig
+/home/knoldus/Desktop/dotnet/Dot_Net_Assessment_2_-Mustafizur_Rahman-/Solution4/obj/Debug/net7.0/Solution4.AssemblyInfoInputs.cache
+/home/knoldus/Desktop/dotnet/Dot_Net_Assessment_2_-Mustafizur_Rahman-/Solution4/obj/Debug/net7.0/Solution4.AssemblyInfo.cs
+/home/knoldus/Desktop/dotnet/Dot_Net_Assessment_2_-Mustafizur_Rahman-/Solution4/obj/Debug/net7.0/Solution4.csproj.CoreCompileInputs.cache
+/home/knoldus/Desktop/dotnet/Dot_Net_Assessment_2_-Mustafizur_Rahman-/Solution4/obj/Debug/net7.0/Solution4.dll
+/home/knoldus/Desktop/dotnet/Dot_Net_Assessment_2_-Mustafizur_Rahman-/Solution4/obj/Debug/net7.0/refint/Solution4.dll
+/home/knoldus/Desktop/dotnet/Dot_Net_Assessment_2_-Mustafizur_Rahman-/Solution4/obj/Debug/net7.0/Solution4.pdb
+/home/knoldus/Desktop/dotnet/Dot_Net_Assessment_2_-Mustafizur_Rahman-/Solution4/obj/Debug/net7.0/Solution4.genruntimeconfig.cache
+/home/knoldus/Desktop/dotnet/Dot_Net_Assessment_2_-Mustafizur_Rahman-/Solution4/obj/Debug/net7.0/ref/Solution4.dll
